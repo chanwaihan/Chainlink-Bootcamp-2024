@@ -47,4 +47,4 @@ Learned how to use Chainlink Functions to access offchain data in smart contract
 
 ### Day 10 – Connecting the World Using the Chainlink Platform
 
-Guest session.
+Guest session with bitsCrunch.
